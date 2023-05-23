@@ -1,10 +1,4 @@
-<!-- import -->
-<head>
-    <style>
-        @import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
-    </style>
-</head>
-<body style="font-family: Caveat; font-size: 24px">
+<body style="font-size: 24px">
     <!-- info -->
     <div style="margin: 10px 0; text-align: center">
         <img
