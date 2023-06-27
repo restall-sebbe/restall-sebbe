@@ -114,11 +114,14 @@
     <hr height="5px" color="rgb(54, 54, 54)" />
     <!-- stats -->
     <div>
-        <p style="margin: 10px 0">&#x1F3C6 Stats and badges:</p>
+        <p>&#x1F3C6 Stats and badges:</p>
         <img
             src="https://www.codewars.com/users/restall-sebbe/badges/large"
             title="Codewars badge"
             width="400"
             height="40" />
+    </div>
+    <div>
+        <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=Restall_Sebbe&theme=dark" width="400"/>
     </div>
 </body>
